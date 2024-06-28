@@ -1,4 +1,4 @@
-# Nexis Network Devnet Configurations
+# Nexis Network Devnet 
 
 ![Nexis Network](https://raw.githubusercontent.com/Nexis-Network/Nexis-Brand-Kit/main/Group.png)
 
@@ -13,8 +13,6 @@ Welcome to the Nexis Network Devnet configuration repository. This document prov
 - **Explorer URL**: [https://evm-devnet.nexscan.io](https://evm-devnet.nexscan.io)
 - **Native Explorer URL**: [https://native.nexscan.io](https://native.nexscan.io)
 - **Faucet**: [https://evm-faucet-devnet.nexscan.io](https://evm-faucet-devnet.nexscan.io)
-
-## Getting Started
 
 ### Connecting to the Devnet
 
@@ -45,7 +43,9 @@ To receive test tokens (NZT) on the Nexis Network Devnet:
 
 ## **NexSwap** 
 
-Deployment URL: [https://nexswap-devnet.nexis.network](https://nexswap-devnet.nexis.network)
+Deployment URL: [nexswap.app](https://nexswap.app/#/swap)
+
+<img width="1351" alt="Screenshot 2024-06-28 at 7 49 45 PM" src="https://github.com/Nexis-Network/devnet/assets/166897641/935d631c-4c80-46b6-82e1-836ae9fe9432">
 
 ### Contracts
 
