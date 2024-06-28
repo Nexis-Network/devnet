@@ -14,6 +14,7 @@ Welcome to the Nexis Network Devnet configuration repository. This document prov
 - **Native Explorer URL**: [https://native.nexscan.io](https://native.nexscan.io)
 - **Faucet**: [https://evm-faucet-devnet.nexscan.io](https://evm-faucet-devnet.nexscan.io)
 
+
 ### Connecting to the Devnet
 
 To connect to the Nexis Network Devnet, you will need to configure your Ethereum-compatible wallet (e.g., MetaMask) with the following details:
@@ -66,7 +67,21 @@ Live URL : (fs.nexis.network)[http://fs.nexis.network/]
 
 <img width="1352" alt="Screenshot 2024-06-28 at 7 56 54 PM" src="https://github.com/Nexis-Network/devnet/assets/166897641/1bfea493-023e-4b10-9563-ae0503339080">
 
+## **Nexis Name Service**
 
+Nexis Name Service so you don't have to remember your Nexis address anymore!
+
+Live URL : (names.nexis.network)[http://names.nexis.network/]
+
+<img width="1352" alt="Screenshot 2024-06-28 at 8 08 15 PM" src="https://github.com/Nexis-Network/devnet/assets/166897641/bf209b96-8e57-4611-9156-a2b706ad31a7">
+
+## **Nexis Devnet Explorer**
+
+Nexis Name Service so you don't have to remember your Nexis address anymore!
+
+Live URL : (evm-devnet.nexscan.io)[http://evm-devnet.nexscan.io]
+
+<img width="1352" alt="Screenshot 2024-06-28 at 8 13 05 PM" src="https://github.com/Nexis-Network/devnet/assets/166897641/ecda6abc-8464-40db-9a4d-b9f9ff716b44">
 
 ## Contributing
 
