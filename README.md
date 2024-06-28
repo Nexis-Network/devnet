@@ -41,6 +41,21 @@ To receive test tokens (NZT) on the Nexis Network Devnet:
 - **Native Explorer**: [https://native.nexscan.io](https://native.nexscan.io)
 - **Faucet**: [https://evm-faucet-devnet.nexscan.io](https://evm-faucet-devnet.nexscan.io)
 
+# Nexis dApps
+
+## **NexSwap** 
+
+Deployment URL: [https://nexswap-devnet.nexis.network](https://nexswap-devnet.nexis.network)
+
+### Contracts
+
+| Contract Name        | Address                                      |
+|----------------------|----------------------------------------------|
+| WETH Address         | [0xd2b5Ad859c61ddA7BF867a35eD0f0b6d8beE34F2](https://evm-devnet.nexscan.io/address/0xd2b5Ad859c61ddA7BF867a35eD0f0b6d8beE34F2)   |
+| UniswapV2Factory     | [0x1D47dBBf54342d9Fd99b9488B4FC51E3946F46d0](https://evm-devnet.nexscan.io/address/0x1D47dBBf54342d9Fd99b9488B4FC51E3946F46d0)   |
+| UniswapV2Router01    | [0x1e8F0c6682183E5271E3F3d85c1Ddc42559eB1c8](https://evm-devnet.nexscan.io/address/0x1e8F0c6682183E5271E3F3d85c1Ddc42559eB1c8)   |
+| UniswapV2Router02    | [0x56FB4f2cb248AB83C4E198c7633a30bDB57BaD37](https://evm-devnet.nexscan.io/address/0x56FB4f2cb248AB83C4E198c7633a30bDB57BaD37)   |
+
 ## Contributing
 
 We welcome contributions to improve the Nexis Network Devnet. Feel free to open issues or submit pull requests with your enhancements and bug fixes.
