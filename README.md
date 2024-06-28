@@ -43,7 +43,9 @@ To receive test tokens (NZT) on the Nexis Network Devnet:
 
 ## **NexSwap** 
 
-Deployment URL: [nexswap.app](https://nexswap.app/#/swap)
+Nexswap is an automated liquidity protocol powered by a constant product formula and implemented in a system of non-upgradeable smart contracts on the Nexis Network.
+
+Live URL: [nexswap.app](https://nexswap.app/#/swap)
 
 <img width="1351" alt="Screenshot 2024-06-28 at 7 49 45 PM" src="https://github.com/Nexis-Network/devnet/assets/166897641/935d631c-4c80-46b6-82e1-836ae9fe9432">
 
@@ -55,6 +57,16 @@ Deployment URL: [nexswap.app](https://nexswap.app/#/swap)
 | UniswapV2Factory     | [0x1D47dBBf54342d9Fd99b9488B4FC51E3946F46d0](https://evm-devnet.nexscan.io/address/0x1D47dBBf54342d9Fd99b9488B4FC51E3946F46d0)   |
 | UniswapV2Router01    | [0x1e8F0c6682183E5271E3F3d85c1Ddc42559eB1c8](https://evm-devnet.nexscan.io/address/0x1e8F0c6682183E5271E3F3d85c1Ddc42559eB1c8)   |
 | UniswapV2Router02    | [0x56FB4f2cb248AB83C4E198c7633a30bDB57BaD37](https://evm-devnet.nexscan.io/address/0x56FB4f2cb248AB83C4E198c7633a30bDB57BaD37)   |
+
+## **Nexis File System**
+
+IPFS based file storage system on Nexis Network
+
+Live URL : (fs.nexis.network)[http://fs.nexis.network/]
+
+<img width="1352" alt="Screenshot 2024-06-28 at 7 56 54 PM" src="https://github.com/Nexis-Network/devnet/assets/166897641/1bfea493-023e-4b10-9563-ae0503339080">
+
+
 
 ## Contributing
 
